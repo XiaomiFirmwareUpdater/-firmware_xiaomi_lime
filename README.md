@@ -1,1 +1,1 @@
-# -firmware_xiaomi_lime
+# firmware_xiaomi_lime
